@@ -4,4 +4,3 @@
 ## Testing can help make using new tools more comfortable
 
 
-### See ya! 😊
